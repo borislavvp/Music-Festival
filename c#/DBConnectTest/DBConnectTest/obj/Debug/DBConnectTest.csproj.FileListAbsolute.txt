@@ -1,0 +1,14 @@
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\bin\Debug\DBConnectTest.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\bin\Debug\DBConnectTest.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\bin\Debug\DBConnectTest.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\DBConnectTest\DBConnectTest\obj\Debug\DBConnectTest.pdb

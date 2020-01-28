@@ -1,0 +1,119 @@
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+<<<<<<< HEAD
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\raduc\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+=======
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\bin\Debug\MySql.Data.dll
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+F:\Fontys\prop\new-21-4\12-5\prop_z7layers\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+>>>>>>> 308581dd2baafc4bf388b7c4afc3a4f0d6622e39
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\raduc\Desktop\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.CampingsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.FinanceOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.ProductsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.VisitorsOverview.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\Event Application\AdminPanel\obj\Debug\AdminPanel.pdb

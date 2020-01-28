@@ -1,0 +1,90 @@
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.pdb
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csprojResolveAssemblyReference.cache
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Form1.resources
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Properties.Resources.resources
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.GenerateResource.Cache
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CoreCompileInputs.cache
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.exe
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.pdb
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe.config
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.pdb
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.dll
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.pdb
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.xml
+F:\Fontys\prop\new-21-4\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\PROP GIT\prop_z7layers\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\EventEntrance.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\CryptSharp.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.exe
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\EventEntrance\EventEntrance\obj\Debug\EventEntrance.pdb

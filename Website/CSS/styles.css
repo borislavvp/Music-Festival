@@ -1,0 +1,2924 @@
+header, section {
+    display: flex;
+}
+
+html {
+    font-family: Work Sans,sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #f1f1f1;
+}
+.logo {
+  display: block;
+  z-index: 10;
+  opacity: 0.5;
+  height: 100px;
+  width: 250px;
+  position: absolute;
+  margin-top: 150px;
+  margin-left: auto;
+  padding-left: 55px;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+.logo h1 {
+  letter-spacing: 20px;
+  text-transform: uppercase;
+  color: white;
+  font-size: 1.3rem;
+  margin-left: 37px;
+  margin-top: -5px;
+}
+.logo p {
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: white;
+  font-size: 0.5rem;
+  margin-top: -10px;
+  margin-left: -15px;
+}
+.logoImage {
+  height: 100px;
+  width: 150px;
+}
+#bgVid {
+   position: absolute; right: 0; bottom: 0;
+    min-width: 100%; min-height: 100%;
+    width: auto; height: auto; z-index: 0;
+    background: transparent url("../Pictures/header1.jpg") no-repeat;
+    background-position: center center;
+}
+.headerVideo {
+    position: relative;
+    width: 100% !important; 
+    height: 400px;
+    z-index: 0;
+}
+.bodyCreateAcc {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #f1f5f9;
+    color: #53535c;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+}
+.bodySignIn {
+    position: relative;
+    width: 100%;
+    height: 906px;
+    background: url("../Pictures/signInHeader.jpg") no-repeat;
+    background-size: cover;
+}
+
+.headerStyle {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background: url("../Pictures/header1.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.headerAboutUs {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background: url("../Pictures/aboutUsHeader.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    z-index: 10;
+}
+
+.headerFestival {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background: url("../Pictures/headerFestival.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.headerCreateAcc {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background: url("../Pictures/createAccHeader.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.headerDiscover {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background: url("../Pictures/discoverHeader.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+ .dropdownSide {
+  display: none;
+ }
+ .dropdownBottom {
+   display: none;
+ }
+ .dropdown {
+   display: none;
+ }
+ .navContainer {
+   position: absolute;
+   top: 0;
+   height:37px;
+   width: 100%;
+   background-color: rgba(0, 0, 0, .9);
+   display: flex;
+   flex-wrap: wrap;
+   z-index: 10;
+ }
+ .contentBox {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1700px;
+    margin: 0 auto;
+}
+.introBox {
+    margin-top: -50px; 
+    position: relative;
+}
+.segmentBox {
+    background-color: #fff;
+    padding: 5px 5px;
+    margin-bottom: 30px;
+    width: 1150px;
+    box-shadow: 0 0 0 10px rgba(255,255,255,0.2), 0 0 10px rgba(0,0,0,0.38);
+}
+.segmentBox h1 { 
+  font-weight: 600;
+  font-size: 2rem;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 30px;
+}
+.segmentBox p {
+    color: #666666;
+    font-size: 1.1rem;
+    margin-left: 30px;
+}
+
+.pictureInfo img{
+  width: 450px;
+  margin-top: -5px;
+  margin-left: -5px;
+  height: 250px;
+}
+.titleTicketsBox {
+  margin-top: -250px ;
+  font-size: 2rem;
+  margin-left: 440px !important;
+  padding-bottom: 20px;
+}
+.regularTicketTitle {
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  background: -webkit-linear-gradient(#00BFFF, #a6a6a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 500px;
+  padding-bottom: 20px;
+}
+.vipTicketTitle {
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  background: -webkit-linear-gradient(#00BFFF, #a6a6a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 850px;
+  margin-top: -60px;
+}
+.pictures-box  {
+  max-width: 1200px;
+}
+.pictures-box img {
+  width: 555px;
+  height: 400px;
+  float: left;
+}
+
+.picAfterMovie {
+  -webkit-transition: transform 0.5s ease-in-out;
+  cursor: pointer;
+  margin-left: -13px;
+}
+.picAfterMovie p {
+  position: absolute;
+  z-index: 1;
+  color: white;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding-left: 30px;
+}
+.picFestInfo { 
+  z-index: 1;
+  text-transform: uppercase;
+  margin-left: 5px;
+  color: white;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+   -webkit-transition: transform 0.5s ease-in-out;
+}
+.picFestInfo p {
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 300px;
+}
+.picFestInfo h2 {
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 350px;
+  font-size: 1.4rem;
+}
+.festInfoText {
+  position: absolute;
+  z-index: 1;
+  margin-left: 650px;
+  margin-top: 300px;
+  color: white;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.picFestInfo:hover {
+ -webkit-transform:scale(1.03); /*Webkit: Scale up image to 1.2x original size*/
+}
+.picAfterMovie:hover {
+ -webkit-transform:scale(1.03); /*Webkit: Scale up image to 1.2x original size*/
+}
+
+.infoTickets {
+  font-size: 1.1rem;
+  margin-left: 400px !important;
+  padding: 7px 0;
+}
+  /* Center the image and position the close button */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 20px 32px 0;
+  position: relative;
+}
+
+.festMapImg {
+  width: 1300px;
+  height: 700px;
+  cursor: none;
+}
+/* The view of the popup modal and the content in it */
+.modalBox {
+  display: none;
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  margin-top: -400px;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-video-content-box {
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  width: 1300px;
+  height: 550px;
+}
+.modal-content-box {
+  background-color: rgba(255,255,255,0.7);
+  margin: 10% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: -70px;
+  top: -100px;
+  color: white;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+.img-magnifier-glass {
+  position: absolute;
+  border: 3px solid #000;
+  border-radius: 50%;
+  cursor: none;
+  /*Set the size of the magnifier glass:*/
+  width: 170px;
+  height: 170px;
+}
+/* The view of the reserve button */
+.ticket1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin-top: 50px;
+  background-color: white;
+  text-align: center;
+  font-family: arial;
+  margin-left: 250px;
+}
+
+.ticket2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin-top: -250px;
+  background-color: white;
+  text-align: center;
+  font-family: arial;
+  margin-left: 900px;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.reserveRegularHome  {
+  border: none;
+  outline: 0;
+  margin-top: 20px;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.reserveRegularHome:hover {
+  opacity: 0.7;
+}
+.reserveVipHome  {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.reserveVipHome:hover {
+  opacity: 0.7;
+}
+.cancelbtn {
+  width: auto;
+  padding: 15px 33px;
+  background-color: black;
+  color:white;
+  border-style: none;
+  font-size: 1.2rem;
+  margin-top: 50px;
+  margin-left: 760px;
+  margin-bottom: 20px;
+}
+
+.cancelbtn:hover {
+  opacity: 0.7;
+}
+.festivalTrailer {
+  margin-left: -50px;
+  margin-top: 40px;
+}
+
+.info {
+  margin-left: 20px;
+  margin-top: 450px;
+  position: relative;
+  width: 600px;
+  letter-spacing: 2px;
+  color: #1C1C1C;
+  font-weight: 500px;
+  font-size: 1.3rem;
+}
+
+.cols12 {
+  margin-top: -50px;
+}
+.col1 {
+  width: 350px;
+  height: 130px;
+  background-color: white;
+  float: right;
+  margin-top: -290px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.col-heading {
+  color: #585858;
+  text-align: center;
+  font-weight: 500px;
+  padding-top: 10px;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+.col-date {
+  color: #424242;
+  text-align: center;
+  font-weight: 600px;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+.col-loc {
+  color: #585858;
+  text-align: center;
+  font-weight: 600px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+.col2 {
+  width: 350px;
+  height: 240px;
+  background-color: #F2F2F2;
+  float: right;
+  margin-top: -130px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.col2-heading {
+  color: #585858;
+  text-align: center;
+  font-weight: 500px;
+  padding-top: 10px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+.col2-register {
+  color: #585858;
+  text-align: center;
+  font-weight: 400px;
+  padding-top: 10px;
+  font-size: 1rem;
+}
+.festival-information-box {
+  margin-left: -10px;
+  margin-top: -350px;
+  padding-bottom: 200px;
+  padding-top: 20px;
+}
+/* The main view of the buttons */
+.buttonBox {
+   text-align: center; 
+   border: none;
+   color: white !important;
+   background-size: 200% auto;
+   padding: 13px 15px !important;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 0.9rem;
+   font-weight: 600;
+   letter-spacing: 1px;
+   text-transform: uppercase;
+   transition-duration: 0.4s;
+   cursor: pointer;
+   } 
+.buttonImage {
+  background-image: linear-gradient(to right, #9A2EFE 0%, #BE81F7 51%, #cc00cc 100%);
+}
+.buttonImageCompany {
+  background-image: linear-gradient(to right, #b3ffcb 0%, #ffffff 51%, #b3ffcb 100%);
+  margin-left: 220px;
+  color: black !important;
+}
+.buttonBox:hover {
+  background-position: right center;
+  text-decoration: none;
+}
+ .btnBuyTickets {
+  margin-left: 730px;
+  margin-top: 26px;
+ }
+ .btnFestivalMap {
+  margin-left: 530px ;
+ }
+.btnRegister {
+  margin-left: 130px;
+}
+/* The main navigation bar*/
+ .navSocialNetwork {
+   width: 40%;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 0;
+ }
+ .navSocialNetwork ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 405px;
+    margin-top: -54px;
+ }
+  .navSocialNetwork ul li {
+    float: left;
+    margin-right: 5px;
+    display: inline;
+ }
+ .navSocialNetwork ul li a{
+   transition: background 0.2s ease;
+   color: #eaeaea;
+   display: block;
+   text-decoration: none;
+   color: rgba(255, 255, 255, 0.7);
+   font-weight: 500;
+   font-size: 1.2rem;
+   line-height: 40px;
+   padding: 0 7px;
+   transition: all 0.3s ease;
+ }
+  .navSocialNetwork ul li a:hover {
+    color:#fff;
+    background-color: transparent;
+}
+ .mainNav ul li:last-child {
+   border-right: none !important;
+   border-left: 1px solid #bbb;
+   float: right;
+ }
+ .mainNav {
+    width: 100%;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 0;
+ }
+ .mainNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ }
+ .mainNav ul li {
+    float: left;
+    margin-right: 5px;
+    display: inline;
+    border-right: 1px solid rgba(255,255,255,.2);
+ }
+ 
+ .mainNav ul li a {
+   transition: background 0.2s ease;
+   color: #eaeaea;
+   display: block;
+   text-decoration: none;
+   text-align: center;
+   color: rgba(255, 255, 255, 0.7);
+   font-weight: 550;
+   font-size: 0.9125rem;
+   letter-spacing: 0.5px;
+   line-height: 36px;
+   padding: 0 14px;
+   text-transform: uppercase;
+   transition: all 0.3s ease;
+}
+ .mainNav ul li a:hover {
+    color:#fff;
+    background-color: transparent;
+}
+/* The bottom navigation bar,under the main */
+.containerBottom {
+  margin-left: 50px;
+  margin-top: -30px;
+}
+.containerBottom1{
+  position: absolute;
+  height:70px;
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -15px;
+  margin-left: 50px;
+}
+.bottomNavFestival {
+  cursor: pointer;
+}
+.bottomNavFestival ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.bottomNavFestival ul li {
+    margin-top: 10px;
+    float: left;
+    margin-right: 30px;
+    display: inline;
+}
+.bottomNavFestival ul li a {
+    transition: background 0.2s ease;
+    color: white;
+    display: block;
+    margin-left: 30px;
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 17px;  
+    text-align: center;
+    font-weight: 600;
+    position: relative;
+    letter-spacing: 2px;
+}
+.bottomNavFestival:hover {
+   background-image: linear-gradient(to bottom, transparent 0%, white 200%);
+   transition: all 0.5s;
+}
+.active {
+  background-color: white;
+}
+.active ul li a {
+  color: rgb(153, 0, 204);
+}
+.containerBottom2 {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 50px;
+  height:70px;
+  width: 50%;
+  background-image: linear-gradient(to right, white 30%, #f9e6ff 50%,transparent 90%);
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.bottomNav {
+    height: 20px;
+    width: 100%;
+    margin: 0;
+    padding-bottom: 15px;
+    padding-top: 0;
+}
+.bottomNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.bottomNav ul li {
+    margin-top: 10px;
+    float: left;
+    margin-right: 30px;
+    display: inline;
+}
+.bottomNav ul li a {
+    transition: background 0.2s ease;
+    color: #330033;
+    display: block;
+    margin-left: 30px;
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 1rem;  
+    text-align: center;
+    font-weight: 600;
+    position: relative;
+    letter-spacing: 2px;
+}
+.bottomNav ul li a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #660066;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+
+}
+.bottomNav ul li a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+.bottomNav ul li a:hover{
+  color: #660066;
+}
+.bottomNav ul li a.activeBottom {
+ color: rgb(153, 0, 204); 
+}
+.bottomNav ul li a.activeBottom:hover:before {
+   visibility: hidden;
+}
+.resp-side-navbar-open {
+  display: none;
+  position: absolute;
+  font-size:20px;
+  cursor:pointer;
+  left: 0;
+  color: white;
+  font-weight: 600;
+}
+.dropdownBottom {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 20;
+  top: 0;
+  left: 0;
+  background-image: linear-gradient(to left top, #000000 0%, #4d004d 51%,#ff66ff 100%);
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Style the sidenav links and the dropdown button */
+.dropdownBottom-btn {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 1px solid #660066;
+  
+}
+.dropdownBottom a, .dropdownBottom-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 22px;
+  color: #e6e6e6;
+  display: block;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+.dropdownBottom a:hover, .dropdownBottom-btn:hover {
+  color: white;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdownBottom-container {
+  display: block;
+  background-image: linear-gradient(to right bottom, #000000 0%, #4d004d 51%,#ff66ff 100%);
+  padding-left: 8px;
+}
+.dropdBottCont-display {
+  display: none;
+}
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+}
+
+.footerContent {
+    position: center;
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: url("../Pictures/footerHome.jpg") no-repeat;
+    background-size: cover; 
+    filter: blur(10px);
+}
+.contentPicture {
+    margin-top: 15px;
+ } 
+.contentPicture a{
+  text-decoration: none;
+}
+.contentPicture img{
+  height: 255px;
+  width: 400px;
+}
+ .titleF {
+  margin-left: 150px;
+  margin-top: 50px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+ }
+   /* Putting an overlay on the images on hover */
+ .overlayBox {
+  position: relative; 
+  bottom: 0; 
+  text-decoration: none;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 400px;
+  height: 255px;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  padding: 20px;
+  margin-top: -255px;
+  text-align: center;
+}
+.overlayBox i {
+  margin-top: 70px;
+  font-size: 66px;
+}
+.overlayBox p {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.pictureAnimation {
+  -webkit-transition: transform 0.5s ease-in-out;
+}
+.pictureAnimation:hover {
+  -webkit-transform:scale(1.07);
+}
+.pictureAnimation:hover .overlayBox{
+  opacity: 1;
+}
+ .contentF1 {
+  position: absolute;
+  margin-left: 150px;
+ }
+ .contentF2 {
+  position: absolute;
+  margin-left: 750px;
+ }
+ .contentF3 {
+  position: absolute;
+  margin-left: 1350px;
+ }
+
+  /* The footer navigation */
+ .segmentFooter {
+  margin-left: 200px;
+  padding-top: 100px;
+ }
+ .segmentF ul{
+    float: left;
+    list-style-type: none;
+    overflow: hidden;
+}
+.segmentF ul li a{
+    color: #000000;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+.segmentF ul li a:hover{
+    color: #808080;
+    text-decoration: underline;
+}
+.segmentF1 ul{
+    padding-left:500px;
+}
+.segmentF2 ul{
+    margin-left:100px;
+}
+.segmentF3 ul{
+    margin-left:100px;
+}
+
+.contName {
+  font-size: 1.1rem;
+  color: #848484;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+.navSocialNetworkF {
+    width: 70%;
+ }
+ .navSocialNetworkF ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 380px;
+    margin-top: -50px;
+ }
+  .navSocialNetworkF ul li {
+    float: left;
+    margin-right: 15px;
+    display: inline;
+ }
+ .navSocialNetworkF ul li a{
+   transition: background 0.2s ease;
+   color: black;
+   display: block;
+   text-decoration: none;
+   font-weight: 500;
+   font-size: 1.8rem;
+   line-height: 36px;
+   padding: 0 13px;
+   transition: all 0.3s ease;
+ }
+  .navSocialNetworkF ul li a:hover {
+    color:#BDBDBD;
+    background-color: transparent;
+}
+.content-video-trailer {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 450px;
+  width: 1200px;
+}
+.content-video-trailer img {
+  height: 450px;
+  width: 1200px;
+  cursor: pointer;
+}
+.trailer-box {
+  -webkit-transition: transform 0.5s ease-in-out;
+}
+.trailer-box:hover {
+ -webkit-transform:scale(1.03); /*Webkit: Scale up image to 1.2x original size*/
+}
+.playImg {
+  margin-left: 560px;
+  margin-top: -230px;
+}
+.playImg img {
+  width: 80px;
+  height: 60px;
+}
+.trailerContent {
+  margin-left: 480px;
+  margin-top: -120px;
+}
+.trailerContent h2 {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  color: white;
+  letter-spacing: 1px;
+}
+.trailerContent p {
+  font-size: 0.9rem;
+  color: white;
+  letter-spacing: 1px;
+  margin-left: 100px;
+}
+.columns {
+  float: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.columns img {
+  width: 300px;
+  height:200px;
+  padding-bottom: 20px;
+}
+.columns p{
+  letter-spacing: 1px;
+  color: #666666;
+  padding: 20px;
+}
+.columns h2{
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  color: #333333;
+  font-weight: 600;
+}
+.bottomText {
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.box-aftermovie{
+  width: 300px;
+  height: 435px;
+  text-align: center;
+  background-color: white;
+  transition: margin-top 0.6s ease-in-out;
+}
+.box-aftermovie:hover{
+  margin-top: -10px;
+  box-shadow:  0 0 10px rgba(0,0,0,0.38);
+  cursor: pointer;
+}
+.box-aftermovie::after{
+  content: '';
+  display: block;
+  margin-top: -10px;
+  height: 5px;
+  position: absolute;
+  width: 25%;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+}
+.box-campings {
+  margin-left: 100px;
+  width: 300px;
+  height: 455px;
+  text-align: center;
+  background-color: white;
+  transition: margin-top 0.6s ease-in-out;
+}
+.box-campings::after{
+  content: '';
+  display: block;
+  margin-top: -10px;
+  height: 5px;
+  position: absolute;
+  width: 25%;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+}
+.box-campings:hover{
+  margin-top: -10px;
+  box-shadow:  0 0 10px rgba(0,0,0,0.38);
+  cursor: pointer;
+}
+.info-fest {
+  padding-top: 50px;
+  margin-left: 800px;
+  letter-spacing: 1px;
+  width: 400px;
+}
+.info-fest h2 {
+   background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2rem;
+}
+.info-fest p {
+  font-size: 1.5rem;
+  margin-top: -10px;
+}
+.year {
+  text-shadow:  10px 10px 10px rgba(0,0,0,0.38);
+  color: #f7e6ff;
+  font-size: 26rem;
+  margin-top: 50px;
+  margin-left: 200px;
+  opacity: 0.2;
+  font-family: 'Alex Brush';
+}
+.info-prev-year {
+  width: 400px;
+  margin-top: -100px;
+  margin-left: 200px;
+}
+.info-prev-year h3 {
+   background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2rem;
+  margin-left: -20px;
+  margin-top: -10px;
+}
+.info-prev-year p {
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  margin-left: -30px;
+}
+.mySlides {
+  display: none;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin-left: 800px;
+  margin-top: -400px;
+  padding-bottom: 100px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 80%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(217, 217, 217,0.2);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+/* The dots indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: -10px 2px;
+  background-color: #717171;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.activeDot, .dot:hover {
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+.tickets-content {
+  position: relative;
+  width: 1600px;
+  margin-left: 160px;
+  margin-top: -50px;
+}
+.ticket-info-imageL {
+  position: relative;
+  float: left;
+}
+
+.ticket-info-imageL img {
+  width: 350px;
+  height: 400px;
+}
+.ticket-info-imageL p {
+  width: 350px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.ticket-info-imageR {
+  position: relative;
+  float: right;
+}
+
+.ticket-info-imageR img {
+  width: 350px;
+  height: 400px;
+}
+.ticket-info-imageR p {
+  width: 350px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.tickets-info {
+  position: relative;
+  background-color: white;
+  width: 800px;
+  height: 1100px;
+}
+.tickets-info-title h1 {
+  padding: 40px;
+  font-size: 1.8rem;
+  background: -webkit-linear-gradient(#ff66ff,#660066);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tickets-info-text p {
+  font-size: 1.2rem;
+  margin-left: 30px;
+  margin-top: -20px;
+  padding-bottom: 30px;
+}
+.festival-dates tr,td {
+  padding: 5px;
+  padding-left: 130px;
+  letter-spacing: 1px;
+  font-size: 1.1rem;
+}
+
+.tickets-info-text h3 {
+  text-decoration: underline;
+  font-size: 1.4rem;
+  margin-left: 30px;
+  padding-top: 50px;
+  font-weight: 400;
+}
+.tickets-info-text ul {
+  margin-left: 100px;
+  padding-bottom: 100px;
+}
+.tickets-info-text ul li {
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.box-tickets-rows {
+  padding-top: 50px;
+}
+.box-tickets-price-text {
+  margin-left: 30px;
+  padding-bottom: 100px;
+}
+.box-tickets-price-text h2 {
+  letter-spacing: 1px;
+  color: #404040;
+}
+.box-tickets-price-text p {
+  font-size: 1.1rem;
+  width: 600px;
+  color: #404040;
+}
+.vip-tickets-info-text {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.vip-tickets-info-text h1{
+ text-transform: uppercase;
+ font-size: 1rem;
+ font-weight: 600;
+}
+.vip-tickets-info-text {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  margin-left: 30px;
+  margin-top: -20px;
+  padding-bottom: 30px;
+}
+.box-tickets {
+  height: 80px;
+  width: 80%;
+  border: 1px solid #ffb3ff;
+  margin-left: 40px;
+  margin-bottom: 70px;
+  z-index: 1;
+  box-shadow: 0 0 5px rgba(0,0,0,0.38);
+}
+.box-tickets h1 {
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.box-tickets-price {
+  position: absolute;
+  background-color: white;
+  height: 65px;
+  width: 160px;
+  border: 1px solid #ffb3ff;
+  right: 50px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.38);
+  margin-top: -55px;
+  margin-left: -50px;
+}
+.box-tickets-price span {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #660066;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  float: left;
+  padding-right: 15px;
+  border-right: 1px solid #d9d9d9;
+}
+.box-tickets-price a {
+  margin-top: 10px;
+  margin-left: 15px;
+  border-left: : 1px solid #ffccff;
+}
+.discoverMediaTitle{
+  margin-top: 110px;
+  margin-left: 800px;
+}
+
+.discoverMediaTitle h2{
+  letter-spacing: 3px;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+  text-shadow:2px 2px 2px black;
+}
+.discoverMedia {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  background-color: white;
+  width: 1150px;
+  height: 1050px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.38);
+  margin-top: -50px;
+}
+.festivalsMediaTitle {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 20px;
+}
+.festivalsMediaTitle p {
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+
+}
+.mediaContent {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.col-pht img {
+  cursor: pointer;
+  margin-bottom: 30px;
+  height: 210px;
+  width: 350px;
+}
+.col-video {
+  height: 240px;
+  width: 330px;
+  margin-left: 15px;
+  float: left;
+}
+.col-video img {
+  display: block;
+  width: 330px;
+  height: 190px;
+  margin-bottom: 30px;
+}
+.video-title {
+  box-sizing: border-box;
+  margin-top: -20px;
+  padding-bottom: 10px;
+}
+.video-title p{
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  font-size: 1rem;
+  font-weight: 500;
+  width: 330px;
+  text-align: center;
+}
+.videoPlayImg {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  margin-top: -150px;
+  margin-left: 140px;
+  overflow: hidden;
+  display: none;
+}
+.videoPlayImg img {
+  width: 50px;
+  height: 50px;
+}
+.videoContent {
+  cursor: pointer;
+  width: 330px;
+  height: 225px;
+  -webkit-transition: transform 0.5s ease-in-out;
+}
+.videoContent:hover {
+  -webkit-transform:scale(1.03); /*Webkit: Scale up image to 1.2x original size*/
+  box-shadow: 0 0 5px rgba(0,0,0,0.38);
+}
+.dayData {
+  margin-top: -30px;
+}
+.dayData-box {
+  background-color:#f1f1f1; 
+  position: relative;
+  box-shadow: 0 0 2px rgba(0,0,0,0.38);
+  width: 400px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.dayData-box:hover span {
+  color: #800080;
+}
+.activeDayDataBox::after {
+  content: '';
+  display: block;
+  bottom: 0;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+}
+.activeDayDataBox {
+  background-color:white;
+}
+.activeDayDataBox span {
+  color: #800080;
+}
+.dayData span {
+  position: relative;
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+}
+.line-up-data {
+  margin-top: 100px;
+}
+.line-up-main {
+  position: relative;
+  text-align: center;
+  width: 300px;
+  background-color: white;
+  float: left;
+  margin-left: 150px;
+  box-shadow: 0 0 2px rgba(0,0,0,0.38);
+}
+.line-up-main::before {
+  content: '';
+  display: block;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+}
+.line-up-main h1 {
+  padding-top: 20px;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.GuestList {
+  margin-left: -50px;
+}
+.GuestList ul {
+  list-style-type: none;
+}
+.GuestList ul li {
+  text-decoration: none;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+}
+.companyPage { 
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  margin-left: 50px;
+}
+.bodyAboutUs:before {
+  content: ' ';
+  display: block;
+  width: 100%;
+  height: 2000px;
+  position: absolute;
+  background: url("../Pictures/companyLogo.jpeg") ;
+  background-size: cover;
+  opacity: 0.2;
+  z-index: 1;
+}
+.companyName {
+  width: 700px;
+  height: 60px;
+  margin-top: -70px;
+  position: relative;
+  background-color: rgba(255, 255, 255,0.9);
+  box-shadow: 0 0 0 10px rgba(255,255,255,0.2), 0 0 10px rgba(0,0,0,0.38);
+  z-index: 10;
+  text-align: center;
+}
+.companyName h1 {
+  margin-top: 2px;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+  background: -webkit-linear-gradient(#4dff4d, #003300);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.companyInfo {
+  position: relative;
+  padding-top: 50px;
+  margin-top: 20px;
+  width: 1000px;
+  height: 500px;
+  background-color: rgba(255, 255, 255,0.9);
+  box-shadow: 0 0 0 10px rgba(255,255,255,0.2), 0 0 10px rgba(0,0,0,0.38);
+  z-index: 10;
+}
+.companyInfo h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.companyInfo p {
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 550px;
+  margin-left: 250px;
+}
+.companyTeam {
+  background-color: rgba(255,255,255,0.8);
+  background-size: cover;
+  box-shadow: 0 0 10px rgba(0,0,0,0.38);
+  height: 350px;
+  width: 1400px;
+  position: relative;
+  padding-top: 50px;
+  z-index: 10;
+  margin-top: 600px;
+  margin-left: -30px;
+}
+.companyTeam p {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  margin-top: -20px;
+}
+.member {
+  text-align: center;
+  width: 300px;
+  float: left;
+  padding-left: 10px;
+  margin-left: 40px;
+
+}
+.member img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.38);
+  padding-bottom: 10px;
+}
+.member h2 {
+  padding-top: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.companyContact {
+  z-index: 10;
+  width: 1000px;
+  height: 300px;
+  background-color: rgba(255,255,255,0.7);
+  box-shadow: 0 0 0 10px rgba(255,255,255,0.2), 0 0 10px rgba(0,0,0,0.38);
+  margin-top: 1000px;
+  margin-left: 50px;
+}
+.companyContact h2 {
+  letter-spacing: 1px;
+  font-size: 1rem;
+  width: 200px;
+  margin-top: -20px;
+}
+.companyContact p {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding-top: 100px;
+}
+
+.companyContact h1 {
+  letter-spacing: 1px;
+  padding-bottom: 10px;
+  font-size: 1.5rem;
+  background: -webkit-linear-gradient(#4dff4d, #003300);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.companyContactInfo {
+  padding-left: 20px;
+}
+.googleMap {
+  width: 400px;
+  height: 300px;
+  float: right;
+}
+
+.contactInfo {
+  margin-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 670px;
+}
+.contactFormDiv {
+  border-radius: 5px;
+  padding: 20px;
+  margin-left: 270px;
+  background-image: linear-gradient(to bottom, #e6e6e6 0%, #ffffff 31%, #e6e6e6 100%);
+  z-index: 50;
+}
+.contactFormDiv label {
+  color: black;
+}
+.contactFormDiv input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+hr { 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+ .introAcc {
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: -200px;
+ }
+.tittleAcc {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-left: 400px;
+  letter-spacing: 2px;
+}
+.hrAcc {
+  border: 0; 
+  height: 1px; 
+  width: 1100px;
+  margin-top: 40px;
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+.hrAccBox{
+  margin-left: 400px;
+}
+.accName {
+  font-weight: 400;
+  font-size: 1.2rem;
+  float: right;
+  color: #52527a;
+  letter-spacing: 1px;
+  margin-top: 5px;
+}
+.balanceBtn {
+  margin-left: 500px;
+}
+.balance p{
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+.modalBalance {
+  display: none;
+  position: fixed; /* Stay in place */
+  z-index: 20; /* Sit on top */
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+}
+.modal-balance-content {
+  border: 1px solid #888;
+  background-color: rgba(255,255,255,0.7);
+  margin-left: 550px;
+  margin-top: 200px;
+  width: 50%;
+  height: 400px;
+}
+.AddBalanceBtn {
+  float: left;
+  padding: 50px;
+  margin-left: 30px;
+}
+.containerSide {
+  width: 300px;
+  height: 100%;
+  top: 0;
+  position: fixed;
+  z-index: 5;
+  background-image: linear-gradient(to left top, #000000 0%, #4d004d 51%,#ff66ff 100%);
+}
+
+.navSignOutbtn {
+  margin-top: 450px;
+  margin-left: 100px;
+}
+.navSignOutbtn a {
+
+  text-decoration: none;
+}
+.SignOut {
+  border: none;
+  color: rgba(242, 242, 242, .7);
+  display: inline-block;
+  font-size: .9rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  transition: background 0.2s ease;
+}
+.SignOut:hover {
+  color: white;
+}
+.sideNav ul li a.activeSideBar {
+  color: white;
+}
+.sideNav ul {
+  z-index: 20;
+  margin-top: 100px;
+  list-style-type: none;
+}
+.sideNav ul li {
+    padding-bottom: 40px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.sideNav ul li a  {
+    transition: background 0.2s ease;
+    color: rgba(242, 242, 242, .7);
+    display: block;
+    width: 150px;
+    text-decoration: none;
+    font-size: 1.3rem;  
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.sideNav ul li a:hover {
+  color: white;
+}
+
+
+.contentOverview {
+  position: relative;
+  padding-top: 50px;
+  width: 1100px;
+  background-color:white;
+  height: 900px;
+  margin-left: 200px;
+  z-index: 5;
+}
+.contentOverview::before {
+  content: '';
+  display: block;
+  z-index: 5;
+  margin-top: -50px;
+  height: 5px;
+  position: absolute;
+  width: 1100px;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+}
+.contentOverview .box_title {
+  position: absolute;
+  margin-top: -60px;
+  z-index: 10;
+  background-color: white;
+}
+.overviewTextIntro {
+  text-align: center;
+  margin: 10px auto;
+}
+.overviewTextIntro p {
+  letter-spacing: 1px;
+  color: #8c8c8c;
+}
+.overviewTextIntro a {
+  background: -webkit-linear-gradient(#000000, #660066);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid #d9d9d9;
+  padding-bottom:1px;
+}
+.overviewTextIntro a:hover {
+   border-bottom-color:  #000000;
+  -webkit-transform:scale(1.03); /*Webkit: Scale up image to 1.2x original size*/
+ -webkit-transition: transform 0.5s ease-in-out;
+}
+.livesets-box img {
+  padding-top: 50px;
+  margin-left: 50px;
+  width: 1000px;
+  height: 400px;
+  cursor: pointer;
+}
+.livesets-box h2{
+  text-transform: uppercase;
+  z-index: 1;
+  font-size: 1.1rem;
+  color: white;
+  letter-spacing: 1px; 
+  margin-top: -50px;
+  margin-left: 480px;
+}
+.livesets-box h2:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.livesetContent {
+  margin-top: -100px;
+  margin-left: 350px;
+}
+.overview-videos-title {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.overview-videos-title p {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  padding: 10px;
+}
+.overview-videos-title hr {
+  width: 900px;
+  margin-top: -40px;
+  margin-left: 200px;
+}
+.overview-videos embed {
+  width: 350px;
+  height: 250px;
+  float: left;
+  padding: 30px;
+}
+.contactAcc {
+  background-color: white;
+  height: 80px;
+  width: 100%;
+}
+.contactAcc hr {
+  display: none;
+}
+.contactAcc .contactInfo {
+  padding-top: 10px;
+  padding-bottom: 0;
+  margin-left: 800px;
+}
+.accSettingsBox {
+  margin-left: 600px;
+}
+.boxAcc {
+    display: flex;
+    margin-top: 20px;
+    text-align: left;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 950px;
+    background-color: rgba(255, 255, 255,0.9);
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,.07);
+}
+.boxResetPassword {
+    display: flex;
+    margin-top: 40px;
+    text-align: left;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 450px;
+    background-color: rgba(255, 255, 255,0.9);
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,.07);
+}
+.SavePersonalInfo {
+  position: relative;
+  margin-left: 500px;
+  margin-top: 30px;
+}
+.SaveNewPass {
+  position: relative;
+  margin-top: 110px;
+  margin-left: -550px;
+}
+.ticket-no {
+    background-color: #fff;
+    padding: 5px 5px;
+    margin-left: 200px;
+    height: 100px;
+    width: 1100px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.38);
+}
+.ticket-no::before {
+  content: '';
+  display: block;
+  z-index: 5;
+  margin-top: -5px;
+  margin-left: -5px;
+  height: 5px;
+  position: absolute;
+  width: 1100px;
+  background: -webkit-linear-gradient(#cc00cc, #a6a6a6);
+}
+.ticket-no p {
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 1.4rem;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.containerCreateAcc {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin-top: 10px;
+    text-align: center;
+}
+.infoCreateAcc{
+    margin-top: 10px;
+}
+.infoCreateAcc h2 {
+    color: #3c3c41;
+    font-size: 1.25rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+.box {
+    margin-top: 20px;
+    display: flex;
+    text-align: left;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 370px;
+    background-color: rgba(255, 255, 255,0.9);
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,.07);
+}
+.box2 {
+    margin-top: 20px;
+    display: flex;
+    text-align: left;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 800px;
+    background-color: rgba(255, 255, 255,0.9);
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,.07);
+}
+.box_title {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 25px;
+    background-color: rgba(255, 255, 255,1);
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,.07), 0 0 10px rgba(0,0,0,0.38);
+    margin-left : 20px;
+    margin-top: -10px;
+}
+.box_title span {
+   background: -webkit-linear-gradient(#000000, #660066);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   margin-left: 25px;
+   font-size: 1rem;
+   text-transform: uppercase;
+   font-weight: 600;
+   margin-top: 2px;
+}
+.row {
+   margin-left: 10px;
+   margin-bottom: -40px;
+}
+.rowGender {
+   margin-left: 30px;
+   margin-bottom: 10px;
+}
+form label {
+    color: #4c4e58;
+    font-family: Work Sans,sans-serif;
+    font-size: .9rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: block;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+.label-container {
+  margin-left: 20px;
+}
+.input {
+    border: 1px solid #e0e0ea;
+    font-family: Work Sans,sans-serif;
+    padding: 5px 200px;
+    color: #4c4e58;
+    margin: 5px 0;
+}
+.inputNumber {
+    border: 1px solid #e0e0ea;
+    font-family: Work Sans,sans-serif;
+    color: #4c4e58;
+    margin-left: 5px;
+    width: 35%
+}
+.inputDate {
+    border: 1px solid #e0e0ea;
+    font-family: Work Sans,sans-serif;
+    color: #4c4e58;
+    margin-left: 5px;
+    width: 100%
+}
+
+.createAccBtn {
+  padding-top: 20px;
+}
+.contentPictures {
+  margin-left: 30px;
+}
+
+.segmentGallery .segment{
+  width: 1000px;
+}
+
+.reserveRegular {
+  margin-left: -50px;
+
+}
+.reserveVip {
+  margin-left: 170px;
+  margin-top: -39px;
+}
+.buttonTickets {
+  text-align: center; 
+  border: none;
+  color: white;
+  background-size: 200% auto;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 70px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.buttonTickets:hover {
+  background-position: right center;
+}
+
+.contentSignIn {
+    position: relative;
+    max-width: 600px;
+    max-height: 510px;
+    margin-top: 100px;
+    background-color: rgba(242, 242, 242,0.9);
+    box-shadow: 0 0 0 10px rgba(255,255,255,0.3), 0 0 10px rgba(0,0,0,0.38);
+}
+.contentSignIn h1 {
+   background: -webkit-linear-gradient(#000000, #737373);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+   padding-left: 120px;
+   margin-bottom: 5px;
+}
+.SignInForm {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 455px;
+    margin-left: -15px;
+    background-color: rgba(255, 255, 255,0.9);
+}
+.SignInForm h2 {
+    color: #666666;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.SignInForm p {
+    color: #737373;
+    font-size:18px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.formSignIn {
+    padding-bottom: 300px;
+}
+.inputEmail {
+  width: 90%;
+  padding: 8px 10px;
+  margin: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #e6e6e6;
+  border-radius: 4px;
+}
+
+.inputPw {
+  width: 90%;
+  padding: 8px 10px;
+  margin: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #e6e6e6;
+  border-radius: 4px;
+}
+.formSignIn .buttonBox {
+  margin-left: 250px;
+}
+.btnCrt {
+  width: 250px;
+  margin-left: 180px;
+  padding-top: 20px;
+}
+
+.buttonCreate {
+  text-align: center;
+  text-decoration:underline; 
+  border: none;
+  color: #666666;
+  background-size: 200% auto;
+  display: inline-block;
+  font-size: 20px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.buttonCreate:hover {
+  color: #262626;
+  text-decoration: none;
+}
+
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)} 
+  to {-webkit-transform: scale(1)}
+}
+  
+@media (max-width: 1600px) {
+  .slideshow-container {
+    margin-left: 600px;
+  }
+  .contentPicture img {
+    height: 250px;
+    width: 350px;
+  }
+  .overlayBox {
+    height: 250px;
+    width: 350px;
+    margin-top: -250px;
+  }
+  .overlayBox i {
+    font-size: 33px;
+  }
+  .contentF1 {
+    margin-left: 100px;
+  }
+  .contentF2 {
+    margin-left: 600px;
+  }
+  .contentF3 {
+    margin-left: 1100px;
+  }
+  .ticket-info-imageL{
+    margin-left: -150px;
+  }
+  .tickets-info {
+    margin-left: 230px;
+  }
+} 
+@media (max-width: 1350px) {
+  .navSocialNetwork {
+    display: none;
+  }
+  .containerSide {
+    width: 220px;
+  }
+  .navSignOutbtn {
+    margin-left: 50px;
+  }
+  .sideNav ul li  {
+    margin-left: -15px;
+  }
+  .sideNav ul li a {
+    font-size: 1.2rem;
+  }
+  .accSettingsBox {
+    margin-left: 220px;
+  }
+  .companyTeam {
+    height: 600px;
+  }
+}
+@media (max-width: 1200px) {
+  /*Home*/
+  .btnBuyTickets {
+    margin-left: 650px;
+  }
+  .btnFestivalMap {
+    margin-left: 450px;
+  }
+  .regularTicketTitle{
+    font-size: 1.2rem;
+  }
+  .vipTicketTitle{
+    font-size: 1.2rem;
+    margin-left: 700px;
+    padding: 10px;
+  }
+  /*Festival*/
+  .infoTickets{
+    font-size: 1rem;
+    margin-left: 440px !important;
+  }
+  .year {
+    font-size: 20rem;
+    margin-left: 100px;
+  }
+  .info-prev-year {
+    margin-left: 400px;
+  }
+  .info-prev-year h2 {
+    margin-left: 100px;
+  } 
+  .info-prev-year h3 {
+    margin-left: 50px;
+  } 
+  .info-prev-year p {
+    font-size: 1.2rem;
+    width: 600px;
+    margin-left: -200px;
+  }
+  .slideshow-container {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  /*Tickets*/
+  .ticket-info-imageL img{
+    height: 300px;
+  }
+  .ticket-info-imageL{
+    margin-left: 0px;
+    margin-top: -70px;
+  } 
+  .ticket-info-imageR {
+    float: left;
+    margin-left: 400px;
+    margin-top: -365px;
+  }
+  .ticket-info-imageR img {
+    height: 300px;
+  }
+  .tickets-info {
+    margin-top: 300px;
+    margin-left: -50px;
+  }
+  /*Line -up*/
+  .line-up-main {
+    margin-left: 0;
+    margin-right: 50px;
+  }
+  /*About us*/
+  .accName {
+    margin-left: 1000px;
+    margin-top: -30px;
+  }
+  .contactFormDiv {
+  margin-left: 10px;
+  }
+  /*Footer*/
+  .contentPicture img {
+    height: 200px;
+    width: 300px;
+  }
+  .titleF {
+    margin-left: 100px;
+  }
+  .overlayBox {
+    height: 200px;
+    width: 300px;
+    margin-top: -200px;
+  }
+  .overlayBox i {
+    font-size: 33px;
+  }
+  .contentF1 {
+    margin-left: 50px;
+  }
+  .contentF2 {
+    margin-left: 430px;
+  }
+  .contentF3 {
+    margin-left: 800px;
+  }
+  .segmentFooter {
+    margin-left: -230px;
+  }
+  .contact .contactInfo {
+    margin-left: 400px;
+  }
+  .contact hr {
+    width: 500px;
+  }
+  /* Footer Acc Page*/
+  .contactAcc .contactInfo .contName {
+    margin-left: -50px;
+  }
+  .contactAcc .contactInfo .navSocialNetworkF ul{
+    margin-left: 300px;
+  }
+  /*Discover*/
+  .discoverMediaTitle {
+    margin-left: 430px;
+  }
+  .discover-videos-content .discoverMedia {
+    height: 1600px;
+  }
+  /* Acc Overview Modal*/
+  .modal-balance-content {
+    margin-left: 200px;
+    width: 600px;
+  }
+  .AddBalanceBtn {
+    margin-top: -30px;
+    margin-left: 60px;
+  }
+  /* Acc Tickets */
+  .ticket-no {
+    width: 730px;
+    height: 130px;
+  }
+  .ticket-no::before {
+    width: 730px;
+  }
+
+}
+@media (max-width: 992px) {
+  .logo {
+    display: none;
+  }
+  /* Modal video change */
+  .headerVideo { 
+    background: url("../Pictures/header1.jpg") no-repeat center center;
+     -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+  }
+  #bgVid { 
+    display: none; 
+  }
+  .img-magnifier-container {
+    position: fixed;
+    margin-top: 200px;
+    width: 550px;
+    height: 400px;
+  }
+  .img-magnifier-container embed {
+    width: 550px;
+    height: 400px;
+    margin-left: 40px;
+  }
+  .close {
+    position: fixed;
+    margin-top: 260px;
+    left: 500px;
+  }
+  /*Home*/
+  .festMapImg {
+    width: 700px;
+    height: 500px;
+    margin-left: 100px;
+  }
+  .btnFestivalMap {
+    margin-left: 300px;
+  }
+  .btnBuyTickets {
+    margin-left: 420px;
+    padding-bottom: 10px;
+  }
+  .titleTicketsBox {
+    padding-top: 13px;
+    font-size: 1.3rem !important;
+    margin-left: 280px !important;
+  }
+  .regularTicketTitle{
+    font-size: 1.1rem;
+    margin-left: 300px;
+  }
+  .vipTicketTitle{
+    font-size: 1.1rem;
+    margin-left: 400px;
+    padding: 10px;
+  }
+  .infoTickets{
+    font-size: 0.9rem !important;
+    margin-left: 250px !important;
+  }
+  .pictureInfo img {
+    width: 40%;
+  }
+  .cols12 {
+    margin-top: -300px;
+    padding-bottom: 200px;
+  }
+  .info {
+    font-size: 1.2rem;
+    width: 30%;
+    margin-left: 50px;
+    margin-top: 400px;
+  }
+  .resp-side-navbar-open {
+    display: block;
+    margin-top: 50px;
+  }
+  /*Festival*/
+  .content-video-trailer img {
+    width: 900px;
+  }
+  .trailerContent {
+    margin-left: 250px;
+  }
+  .playImg {
+    margin-left: 400px;
+  }
+  .playImg img {
+    width: 60px;
+  }
+  .columns {
+    margin-left: 50px;
+  }
+  .info-fest {
+    margin-left: 50px;
+    margin-top:550px;
+    width: 900px;
+  }
+  .containerBottom {
+    display: none;
+  }
+  /*Tickets*/
+  .ticket-info-imageR {
+    display: none;
+  }
+  /* Discover*/
+  .discover-videos-content .discoverMedia {
+    height: 3000px;
+  }
+  .col-video {
+    margin-left: 150px;
+  }
+  /*About us*/
+  .companyInfo p {
+    margin-left: 0;
+  }
+  .contactFormDiv {
+  margin-left: -200px;
+  }
+  /*Acc Overview*/
+  .containerSide {
+    display: none;
+  }
+  .resp-side-navbar-open {
+    color: black;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 37px;
+    width: 100%
+  }
+   .introAcc {
+    margin-left: -500px;
+   }
+  .contentOverview {
+    margin-left: -100px;
+  }
+  .modal-balance-content {
+    margin-left: 100px;
+  }
+  /*Campings*/
+  .createCampForm .box2{
+    width: 600px;
+  }
+  .createCampForm .box2 .input {
+    width: 200px !important;
+  }
+  .campings-reg-form .createAccBtn {
+    margin-left: 257px !important;
+  }
+  /* Acc Tickets */
+  .ticket-no {
+    margin-left: -50px;
+  }
+  /*Acc Settings */
+   .accSettingsBox {
+    margin-left: 0;
+  }
+  /*Footer*/
+  .contentPicture img {
+    height: 150px;
+    width: 250px;
+  }
+  .titleF {
+    margin-left: 90px;
+  }
+  .overlayBox {
+    height: 150px;
+    width: 250px;
+    margin-top: -150px;
+  }
+  .overlayBox i {
+    font-size: 23px;
+  }
+  .contentF1 {
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+  .contentF2 {
+    margin-left: 330px;
+    margin-top: 30px;
+  }
+  .contentF3 {
+    margin-left: 630px;
+    margin-top: 30px;
+  }
+  .segmentFooter {
+    margin-left: -300px;
+  }
+  .contact .contactInfo {
+    margin-left: 150px;
+  }
+  .navSocialNetworkF ul {
+    margin-left: 80px;
+    margin-top: 20px;
+  }
+  /* Footer Acc Page */
+  .contactAcc .contactInfo .navSocialNetworkF ul{
+    margin-top: -45px;
+  }
+
+}
+@media (max-width: 767px) { 
+
+.footerContent {
+    position: relative;
+    height: 1200px;
+    width: 700px !important;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+  }
+ .headerStyle {
+    width: 750px ;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+  }
+  .headerCreateAcc {
+    width: 670px ;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+  }
+  .headerFestival {
+    width: 700px ;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+  }
+  .headerAboutUs {
+    width: 670px ;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+  }
+  .headerDiscover {
+    width: 670px ;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+  }
+  .dropdown {
+    position: absolute;
+    display: block; 
+    right: 0;
+  }
+  .dropBtn-style {
+    color: #d9d9d9;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .dropBtn-style:hover {
+    color: white;
+  }
+  .resp-side-navbar-open {
+    color: white;
+    background-color: transparent;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 3px;
+    width: 20%;
+  }
+  
+  /*Home*/
+  .mainNav {
+    display: none;
+  }
+  .picFestInfo {
+    margin-left: -15px;
+    padding-top: 20px;
+  }
+  .btnFestivalMap {
+    margin-left: 200px;
+  }
+  .festMapImg {
+    width: 500px;
+    height: 400px;
+  }
+  .btnBuyTickets {
+    margin-left: 320px;
+    margin-top: -18px;
+  }
+  .titleTicketsBox {
+    font-size: 1.3rem !important;
+    margin-left: 240px !important;
+    padding-bottom: 10px;
+  }
+  .regularTicketTitle{
+    font-size: 1rem;
+    margin-left: 220px;
+  }
+  .vipTicketTitle{
+    font-size: 1rem;
+    margin-left: 400px;
+    padding: 10px;
+  }
+  .infoTickets{
+    font-size: 0.9rem !important;
+    margin-left: 230px !important;
+    margin-top: -20px;
+  }
+  .pictureInfo img {
+    width: 40%;
+  }
+  .container {
+    width: 570px;
+  }
+  /*Festival*/
+  .content-video-trailer img {
+    width: 650px;
+    margin-left: 25px;
+  }
+  .playImg {
+    margin-left: 300px;
+  }
+  .playImg img {
+    width: 60px;
+  }
+  .trailerContent {
+    margin-left: 230px;
+  }
+  .columns {
+    margin-left: 25px;
+  }
+  .box-campings {
+    margin-left: 20px;
+  }
+  .info-fest {
+    margin-left: 40px;
+    margin-top:550px;
+    width: 600px;
+  }
+  .year {
+    font-size: 16rem;
+    margin-left: 30px;
+  }
+  .info-prev-year {
+    margin-left: 200px;
+  }
+  .info-prev-year h2 {
+    margin-left: 100px;
+  } 
+  .info-prev-year h3 {
+    margin-left: 50px;
+  } 
+  .info-prev-year p {
+    font-size: 1rem;
+    width: 600px;
+    margin-left: -100px;
+    width: 500px;
+  }
+  .slideshow-container {
+    margin-left: 50px;
+  }
+  /*Tickets*/
+  .tickets-content {
+    margin-left: 100px;
+  }
+  .ticket-info-imageR{
+    margin-left: 210px;
+    margin-top: -400px;
+  }
+  .ticket-info-imageR img{
+    height: 300px;
+  } 
+  .festival-dates{
+   margin-left: -100px;
+  }
+  .box-tickets-price {
+    position: relative;
+    margin-left: 350px;
+  }
+  .box_title {
+    width: 280px !important;
+  }
+  .box_title span {
+    font-size: 0.8rem;
+  }
+  /*Campings-Book Form*/
+  .campings-reg-form {
+    margin-left: -20px;
+  }
+  .campings-reg-form .createAccBtn {
+    margin-left: 210px !important;
+  }
+  .createAccBtn {
+    margin-top: -15px;
+    padding-bottom: 30px;
+  }
+  .createCampForm .box2{
+    width: 500px;
+    margin-left: 5px !important;
+  }
+  /*Acc Overview*/
+  .overviewTextIntro {
+    margin-left: -400px;
+  }
+  .livesets-box img {
+    width: 600px;
+  }
+  .livesets-box h2 {
+    margin-left: 270px;
+  }  
+  .overview-videos embed {
+    width: 250px;
+    height: 200px;
+  }
+  .tittleAcc {
+    margin-top: -50px;
+    padding-bottom: 50px;
+    margin-left: 650px;
+  }
+  .accName {
+    margin-left: 650px;
+  }
+  .balanceBtn {
+    margin-left: 700px;
+  }
+  .modal-balance-content {
+    margin-left: 50px;
+  }
+  /* Acc Tickets */
+  .ticket-no {
+    position: absolute;
+    margin-left: -100px;
+  }
+  .ticket-no::before {
+    width: 730px;
+  }
+  /* Acc Setting */
+  .SavePersonalInfo {
+    margin-left: 150px;
+  }
+  /*Footer*/
+  .contentPicture img {
+    height: 250px;
+    width: 400px;
+  }
+  .titleF {
+    margin-left: 170px;
+  }
+  .overlayBox {
+    height: 250px;
+    width: 400px;
+    margin-top: -250px;
+  }
+  .overlayBox i {
+    font-size: 33px;
+  }
+  .contentF1 {
+    margin-left: 130px;
+    margin-top: 30px;
+  }
+  .contentF2 {
+    margin-left: 130px;
+    margin-top: 400px;
+  }
+  .contentF3 {
+    margin-left: 130px;
+    margin-top: 800px;
+  }
+  .segmentF1 ul {
+    padding-left: 350px;
+  }
+  .contName {
+    margin-left: 50px;
+  }
+  /* Acc Overview */
+  .hrAcc {
+    width: 800px;
+  }
+  .overview-videos-title hr {
+    width: 600px;
+  }
+  .overviewTextIntro {
+    margin-left: 50px;
+  }
+  .contentOverview {
+    width: 800px;
+  }
+  .contentOverview:before {
+    width: 800px;
+  }
+
+  /* Footer Acc Page*/
+  .contactAcc {
+    width: 850px;
+  }
+  .contactAcc .contactInfo .contName {
+    margin-left: -140px;
+  }
+  .contactAcc .contactInfo .navSocialNetworkF ul{
+    margin-left: 200px;
+  }
+  /*Discover*/
+  .discoverMedia {
+    width: 570px;
+    height: 3000px;
+  }
+  .discoverMediaTitle {
+    margin-left: 200px;
+  }
+  .col-video {
+    margin-left: 50px;
+  }
+  .col-pht {
+    margin-left: 50px;
+  }
+  .col-pht img {
+    width: 300px;
+  }
+  /*About us*/
+  .companyPage {
+    margin-left: -50px;
+  }
+  .companyInfo {
+    max-width: 770px;
+  }
+  .companyTeam {
+    height: 1100px;
+    padding-bottom: 50px;
+    margin-left: -45px;
+  }
+  .member {
+    margin-left: 125px;
+  }
+  .googleMap {
+    width: 250px;
+  }
+  .companyContact {
+    margin-left: -50px;
+  }
+  .contactFormDiv {
+  margin-left: -300px;
+  }
+
+}
